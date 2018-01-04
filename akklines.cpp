@@ -1,4 +1,4 @@
-// g++ -w -std=c++14 akk3.cpp -o akk3 `pkg-config opencv --cflags --libs`
+// g++ -w -std=c++14 akklines.cpp -o akklines `pkg-config opencv --cflags --libs`
 
 #include <algorithm>
 #include <cstdlib>
